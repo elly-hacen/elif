@@ -6,8 +6,8 @@
 
 ## Commands
 
-- `enc` — Encrypt or decrypt files
-- `record` — Record audio or video
+- `enc` — Encrypt or decrypt files using `openssl`
+- `record` — Record audio or video with `ffmpeg`
 - `help` — Show help messages
 
 ---
