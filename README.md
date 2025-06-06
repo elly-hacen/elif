@@ -14,8 +14,8 @@
 
 ## Getting Help
 
-For detailed usage, options, and examples, check the [docs folder](./doc):
+For detailed usage, options, and examples, check the [docs folder](./docs):
 
-- [Usage Guide](./doc/usage.md)
+- [Usage Guide](./docs/usage.md)
 
 ---
